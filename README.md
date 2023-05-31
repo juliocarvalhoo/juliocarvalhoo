@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhoo&layout=compact&theme=radical
 </p>
 
 
