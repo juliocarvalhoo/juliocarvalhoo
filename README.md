@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliocarvalhoo&show_icons=true&theme=transparent" alt="julio carvalhoo GitHub stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
