@@ -5,11 +5,6 @@
   <a href="https://www.instagram.com/julio_ocarvalho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhoo&layout=compact&theme=radical" alt="Perfil">
-</p>
-
-
 <h3 align="center">Tecnologias do meu dia a dia: 🖥️📕</h3>
 
 <p align="center">
